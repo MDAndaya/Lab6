@@ -12,9 +12,11 @@ class Dictionary {
 private:
     map<string, string> definitions;
 public:
-    Dictionary(const string &fileName);
+    Dictionary(ifstream& file);
     virtual ~Dictionary();
-
+    void printAll();
+    void findDef(string word);
+    void addDef(string word, string def);
 };
 
 #endif //LAB6_DICTIONARY_HPP
