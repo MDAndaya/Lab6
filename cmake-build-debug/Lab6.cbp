@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/c/3522/Lab6/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/c/3522/Lab6/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Lab6">
-				<Option output="/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Lab6.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug"/>
+				<Option output="/cygdrive/c/3522/Lab6/cmake-build-debug/Lab6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/3522/Lab6/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -42,15 +42,15 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab6"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab6"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Lab6/fast">
-				<Option output="/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Lab6.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug"/>
+				<Option output="/cygdrive/c/3522/Lab6/cmake-build-debug/Lab6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/3522/Lab6/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -63,27 +63,33 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab6/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab6/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/c/3522/Lab6/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/MDand/CLionProjects/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/3522/Lab6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/c/Users/MDand/CLionProjects/Lab6/main.cpp">
+		<Unit filename="/cygdrive/c/3522/Lab6/dictionary.cpp">
 			<Option target="Lab6"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/MDand/CLionProjects/Lab6/CMakeLists.txt">
+		<Unit filename="/cygdrive/c/3522/Lab6/dictionary.hpp">
+			<Option target="Lab6"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/3522/Lab6/main.cpp">
+			<Option target="Lab6"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/3522/Lab6/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
