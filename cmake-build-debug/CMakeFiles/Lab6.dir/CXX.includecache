@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/3522/Lab6/dictionary.cpp
+fstream
+-
+iostream
+-
+dictionary.hpp
+/cygdrive/c/3522/Lab6/dictionary.hpp
+
+/cygdrive/c/3522/Lab6/dictionary.hpp
+map
+-
+

@@ -1,0 +1,3 @@
+/cygdrive/c/3522/Lab6/cmake-build-debug-cygwin/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/3522/Lab6/cmake-build-debug-cygwin/CMakeFiles/Lab6.dir
+/cygdrive/c/3522/Lab6/cmake-build-debug-cygwin/CMakeFiles/edit_cache.dir
